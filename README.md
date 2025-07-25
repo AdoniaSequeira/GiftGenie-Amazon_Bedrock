@@ -6,9 +6,9 @@
 ---
 
 ## ✨ Overview  
-**GiftGenie** is a smart, conversational AI assistant that helps people find thoughtful, personalized gifts—without the stress of endless browsing. Whether it’s for a birthday, graduation, farewell, or “just because,” GiftGenie tailors suggestions to the user’s needs.
+**GiftGenie** is a smart, conversational AI assistant that helps people find thoughtful, personalized gifts without the stress of endless browsing. Whether it’s for a birthday, graduation, farewell, or “just because,” GiftGenie tailors suggestions to the user’s needs.
 
-Users provide a few details like the occasion, relationship, age group, budget, preferences, interests, and personal notes—then the app generates curated gift ideas. They can also chat with the AI assistant to refine suggestions in real-time.
+Users provide a few details like the occasion, relationship, age group, budget, preferences, interests, and personal notes, then the app generates curated gift ideas. They can also chat with the AI assistant to refine suggestions in real-time.
 
 ---
 
